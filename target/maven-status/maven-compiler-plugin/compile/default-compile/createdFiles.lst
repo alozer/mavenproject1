@@ -1,0 +1,4 @@
+test\json\ApplicationConfig.class
+test\json\DbOperations.class
+test\json\ConnectionHelper.class
+test\json\GenericResource.class
